@@ -1,4 +1,4 @@
-AI-Powered Talent Scouting & Engagement Agent
+# AI-Powered Talent Scouting & Engagement Agent
 Submission for Deccan AI Catalyst Hackathon
 
 📌 Project Overview
